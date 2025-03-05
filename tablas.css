@@ -1,0 +1,16 @@
+/*DOCUMENTO.CSS*/
+* {margin: 0px;
+    padding: 0px;}
+
+h1 { font-family: "Inter", sans-serif;
+    text-align: center;
+    font-size: 32px}
+
+.cabecera {margin-bottom: 32px; }
+
+.tablas { background-color: rgb(147, 220, 220); 
+          min-height: 1px;      
+          padding: 16px 8px; 
+          margin-bottom: 32px;}
+
+.tablas table { margin: auto;}
