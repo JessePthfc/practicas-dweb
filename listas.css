@@ -1,0 +1,41 @@
+/*Documentos CSS*/
+
+*{ margin: 0 }
+
+/*Encabezados*/
+
+
+
+h1 { text-align: center
+    background-color rgb(65, 95, 65)
+    color rgb(91, 72, 72)
+    font-family: .poppins-regular {
+        font-family: "Poppins", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+    }
+
+ 
+h2 { padding: 8px 16px; 
+     }
+
+/*LAYOUT*/
+
+.cabecera { background-color: rgb(161, 125, 194);
+            padding: 16px 8px 16px 8px;  }
+           
+.listas, .contenido { padding: 24px 16px;
+                      width 70%; 
+                      margin: 0px auto; }
+        
+.atencion { color: brown}                      
+
+.listas ol { border: 2px solid red; }
+
+.contenido p { line-height:  140%
+            padding: 8px 16px 8px;}
+
+.pie span { text-align: center
+            background-color: green;
+            font-size: 16px; }            

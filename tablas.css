@@ -8,9 +8,14 @@ h1 { font-family: "Inter", sans-serif;
 
 .cabecera {margin-bottom: 32px; }
 
-.tablas { background-color: rgb(147, 220, 220); 
+.tablas { background-color: rgb(33, 123, 123); 
           min-height: 1px;      
           padding: 16px 8px; 
           margin-bottom: 32px;}
 
+div.tablas {  background-color: rgb(255, 219, 255); 
+                margin-bottom: 80px; }
+
 .tablas table { margin: auto;}
+
+.pie { background-color: blue;}
