@@ -1,1 +1,26 @@
 /*Documentos CSS*/
+*{ margin: 0px;
+    padding: 0px; }
+    
+body { background-color: rgb(179, 87, 93);
+    font-family: "Inter", sans-serif; }
+
+.imagen { text-align: center;
+        display: block;
+        padding: 8px 8px;
+        margin: 8px auto 124px auto; 
+        min-height: 1px;}
+
+.titulo  { text-align: center;
+        padding: 16px 8px;
+        font-size: 50px; 
+        color: aliceblue;}
+
+.subtitulo  { padding: 8px 8px; 
+        font-size: 30px;
+        min-height: 1px;
+        color:aliceblue;}
+
+.vida { text-align: auto;
+    display: block;   
+    color: aliceblue ; }
